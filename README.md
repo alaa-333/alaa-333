@@ -285,16 +285,6 @@ graph TB
   </tr>
 </table>
 
-### 📚 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- 🔥 **Building Robust REST APIs with Spring Boot** - Best practices for API design
-- 💡 **Database Optimization Techniques in Java** - Performance tuning tips
-- 🚀 **Mastering Hibernate & JPA** - Advanced ORM concepts
-- ⚡ **Spring Security Deep Dive** - Implementing JWT authentication
-- 🧩 **From Monolith to Microservices** - Migration strategies
-<!-- BLOG-POST-LIST:END -->
-
 </div>
 
 <br/>
@@ -322,14 +312,6 @@ graph TB
 </a>
 
 <br/><br/>
-
-### 💬 Open For
-
-- 💼 **Backend Development Opportunities**
-- 🤝 **Open Source Collaborations**
-- 📊 **System Design Discussions**
-- 🎓 **Mentoring & Knowledge Sharing**
-- ☕ **Coffee & Code Talks**
 
 </div>
 
