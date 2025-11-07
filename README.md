@@ -223,7 +223,7 @@ graph TB
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="55%">
       <h3 align="center">🎯 Task Management System</h3>
       <div align="center">  
         <a href="https://github.com/alaa-333/Task-Management-System" target="_blank">
@@ -237,10 +237,10 @@ graph TB
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </div>
     </td>
-    <td width="50%">
+    <td width="45%">
       <h3 align="center">🔥 More Projects Coming Soon</h3>
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="Coding"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" alt="Coding"/>
         <br/>
         <br/>
         <p><em>Building amazing backend solutions...</em></p>
