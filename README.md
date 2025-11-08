@@ -33,7 +33,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> About Me - The Backend Engineer
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> About Me - Backend Engineer
 <div  align="center">
 <table>
 <tr>
@@ -159,7 +159,7 @@ public class AlaaProfile {
 
 <br/>
 
-## 🎯 Learning Roadmap - Backend Mastery Path
+## 🎯 My Learning Roadmap - Backend Mastery Path
 
 <div align="center">
 
@@ -234,7 +234,7 @@ graph TB
         <p><strong>Tech Stack:</strong></p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ORACLE-4479A1?style=flat-square&logo=oracle&logoColor=white"/>
       </div>
     </td>
     <td width="45%">
