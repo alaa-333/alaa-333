@@ -19,6 +19,10 @@
   <a href="https://alaa-portfolio-site1.netlify.app/#/home">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7" alt="Portfolio"/>
   </a>
+  <a href="https://leetcode.com/u/333alaamo/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=F89F1B" alt="LeetCode"/>
+</a>
+
 </p>
 
 <!-- Profile Views Counter -->
