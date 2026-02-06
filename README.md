@@ -1,153 +1,117 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alaa%20Mohamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Robust%20Backend%20Solutions%20with%20Java&descAlignY=51&descAlign=50"/>
+<!-- Futuristic Glitch Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,30:7B2CBF,60:00F5FF,100:C77DFF&height=220&section=header&text=ALAA%20MOHAMED&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%7C%20&descAlignY=55&descAlign=50&descSize=20"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey!+I'm+Alaa+%F0%9F%91%8B;Java+Backend+Engineer+%E2%98%95;Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+<!-- Matrix-Style Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=800&height=100&lines=%3E+Backend+Engineer;%3E+Crafting+High-Performance+APIs;%3E+Status:+ONLINE+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social Badges with Icons -->
+<!-- Neon Status Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/alaamohamed-javadev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:333alaamo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://alaa-portfolio-site1.netlify.app/#/home">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7" alt="Portfolio"/>
-  </a>
-  <a href="https://leetcode.com/u/333alaamo/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=F89F1B" alt="LeetCode"/>
-</a>
-
+  <img src="https://img.shields.io/badge/⚡_SYSTEM-ONLINE-00ff41?style=for-the-badge&labelColor=0a0e27&color=00ff41" alt="System Status"/>
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-7B2CBF?style=for-the-badge&labelColor=0a0e27" alt="Hiring Status"/>
+  <img src="https://img.shields.io/badge/LOCATION-EGYPT_🇪🇬-C77DFF?style=for-the-badge&labelColor=0a0e27" alt="Location"/>
+  <img src="https://img.shields.io/badge/☕_FUEL-COFFEE_POWERED-FF006E?style=for-the-badge&labelColor=0a0e27" alt="Fuel"/>
 </p>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=alaa-333&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+
+<!-- Social Matrix -->
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/alaamohamed-javadev">
+        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:333alaamo@gmail.com">
+        <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://alaa-portfolio-site1.netlify.app/#/home">
+        <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="30"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/333alaamo/">
+        <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="30"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 </div>
 
 <br/>
 
-<!-- Wave Separator -->
+<!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> About Me - Backend Engineer
-<div  align="center">
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35"> SYSTEM INITIALIZATION
+
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-```java
-public class AlaaProfile {
-    
-    private String name = "Alaa Mohamed";
-    private String role = "Java Backend Engineer";
-    private String location = "Al Mansurah, Egypt 🇪🇬";
-    
-    private List<String> languages = Arrays.asList(
-        "Java ☕", 
-        "JavaScript 📜", 
-        "SQL 🗃️"
-    );
-    
-    private Map<String, List<String>> expertise = Map.of(
-        "Backend", List.of("Spring Boot", "Hibernate", "REST APIs"),
-        "Frontend", List.of("Angular", "Bootstrap"),
-        "Databases", List.of("MySQL", "Oracle"),
-        "Tools", List.of("Maven", "Git", "Postman", "IntelliJ IDEA")
-    );
-    public String getPhilosophy() {
-        return "Clean code isn't written by following rules. " +
-               "It's written by professionals with passion. ✨";
-    }
-}
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        🚀 BACKEND ENGINEER PROTOCOL                          ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  👤 IDENTITY      : Alaa Mohamed                                             ║
+║  💼 DESIGNATION   : Java Backend Engineer                                    ║
+║  🌍 LOCATION      : Al Mansurah, Egypt 🇪🇬                                   ║
+║  ⏱️  RUNTIME      : 24/7 Problem Solver                                      ║
+║  ✅ STATUS        : ACTIVE & AVAILABLE                                       ║
+║                                                                              ║
+║  🔧 PRIMARY STACK : Java ☕ | Spring Boot 🌱 | SQL 🗃️                        ║
+║                                                                              ║
+║  🛠️  TECH CONFIGURATION                                                     ║
+║     • Backend   : Spring Boot • Hibernate • REST APIs                        ║
+║     • Frontend  : Angular • TypeScript • Bootstrap                           ║
+║     • Database  : MySQL • Oracle                               ║
+║     • Learning  : AWS • Microservices                      ║
+║                           ║
+║                                                                              ║
+║  💡 CORE PHILOSOPHY                                                          ║
+║     “Code is not just about making things work—it’s about making            ║
+║      them work elegantly, efficiently, and at scale. Build systems          ║
+║      that last, APIs that perform, and architectures that endure.” 🚀       ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
-
-</td>
-<td width="50%" valign="center">
-
-<img alt="Java Developer" width="100%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 </td>
 </tr>
 </table>
+
 </div>
-<br clear="both"/>
 
-### 🎯 Quick Facts
-
-- 🏢 **Current Role:** Backend Developer specializing in enterprise Java applications
-- 💼 **Working On:** RESTful APIs, Database optimization, and Spring Boot applications
-- 🎓 **Passionate About:** Writing clean, maintainable code and solving complex problems
-- ⚡ **Fun Fact:** I debug best at 2 AM with a cup of coffee ☕
-- 💬 **Ask Me About:** Java, Spring Boot, REST APIs, Database Design
+</div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
+### ⚡ MISSION CONTROL PANEL
 
 <div align="center">
 
-### ⚙️ Core Technologies
-
-<table>
-  <tr>
-    <td align="center" width="140" height="112.43">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" height="65" alt="Java" />
-      <br /><strong>Java</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="65" height="65" alt="Spring" />
-      <br /><strong>Spring Boot</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65" height="65" alt="MySQL" />
-      <br /><strong>MySQL</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="65" height="65" alt="Oracle" />
-      <br /><strong>Oracle</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65" height="65" alt="Git" />
-      <br /><strong>Git</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140" height="112.43">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="65" height="65" alt="Hibernate" />
-      <br /><strong>Hibernate</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="65" height="65" alt="Angular" />
-      <br /><strong>Angular</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="65" height="65" alt="Postman" />
-      <br /><strong>Postman</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="65" height="65" alt="Maven" />
-      <br /><strong>Maven</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="65" height="65" alt="REST" />
-      <br /><strong>REST APIs</strong>
-    </td>
-  </tr>
-</table>
-
-
+| 🎯 OPERATION | 📊 STATUS | 💡 DETAILS |
+|:-------------|:----------|:-----------|
+| **CURRENT_PROJECT** | <img src="https://img.shields.io/badge/ACTIVE-00ff00?style=flat-square"/> | E-Commerce Backend with Advanced Features |
+| **EXPERTISE_LEVEL** | <img src="https://img.shields.io/badge/ADVANCED-0066ff?style=flat-square"/> | RESTful APIs, Database Design, System Architecture |
+| **LEARNING_PATH** | <img src="https://img.shields.io/badge/IN_PROGRESS-ffaa00?style=flat-square"/> | AWS Cloud, Microservices, Spring Security |
+| **CODE_QUALITY** | <img src="https://img.shields.io/badge/EXCELLENT-00ffff?style=flat-square"/> | SOLID Principles, Clean Architecture, Design Patterns |
+| **DEPLOYMENT** | <img src="https://img.shields.io/badge/PRODUCTION-ff00ff?style=flat-square"/> | Spring Boot Apps in Live Environments |
+| **COLLABORATION** | <img src="https://img.shields.io/badge/OPEN-7B2CBF?style=flat-square"/> | Ready for Backend Challenges |
 
 </div>
 
@@ -157,63 +121,126 @@ public class AlaaProfile {
 
 <br/>
 
+## 🛠️ [ TECH MATRIX ]
+
+<div align="center">
+
+### 🔷 CORE BACKEND INFRASTRUCTURE
+
+<table>
+  <tr>
+    <td align="center" width="140" height="140">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="70" height="70" />
+      <br/><strong style="color:#00F5FF">JAVA</strong>
+      <br/><sub>Core Language</sub>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="70" height="70" />
+      <br/><strong style="color:#00F5FF">SPRING BOOT</strong>
+      <br/><sub>Framework</sub>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="70" height="70" />
+      <br/><strong style="color:#00F5FF">HIBERNATE</strong>
+      <br/><sub>ORM Layer</sub>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="70" height="70" />
+      <br/><strong style="color:#00F5FF">MYSQL</strong>
+      <br/><sub>Database</sub>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="70" height="70" />
+      <br/><strong style="color:#00F5FF">MAVEN</strong>
+      <br/><sub>Build Tool</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="140">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="70" height="70" />
+      <br/><strong style="color:#7B2CBF">POSTMAN</strong>
+      <br/><sub>API Testing</sub>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST" width="70" height="70" />
+      <br/><strong style="color:#7B2CBF">REST API</strong>
+      <br/><sub>Architecture</sub>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="70" height="70" />
+      <br/><strong style="color:#7B2CBF">GIT</strong>
+      <br/><sub>Version Control</sub>
+    </td>
+    <td align="center" width="140" height="140">
+      <img src="https://skillicons.dev/icons?i=angular" alt="Git" width="70" height="70" />
+      <br/><strong style="color:#7B2CBF">GIT</strong>
+      <br/><sub>Version Control</sub>
+    </td>
+
+<td align="center" width="140" height="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg" alt="JUnit 5" width="70" height="70" />
+  <br/><strong style="color:#D30000">JUNIT 5</strong>
+  <br/><sub>Testing Framework</sub>
+</td>
+  
+  </tr>
+</table>
+
+### 🎨 EXTENDED TECH STACK
+
+<img src="https://skillicons.dev/icons?i=typescript,html,css,bootstrap,postgres,redis&theme=dark&perline=8" />
+
+### 📊 SKILL DISTRIBUTION
+
+```ascii
+Java & Spring Boot    ████████████████████░   95%
+Database Design       ███████████████████░░   90%
+REST API Development  ███████████████████░░   90%
+Frontend Integration  ████████████░░░░░░░░░   60%
+```
+
+</div>
+
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-## 🎯 My Learning Roadmap - Backend Mastery Path
+## 🗺️ [ SKILL TREE PROGRESSION ]
 
 <div align="center">
 
 ```mermaid
-graph TB
-    A[☕ Java Fundamentals] --> B[🏗️ OOP & Design Patterns]
-    B --> C[🌱 Spring Framework]
-    C --> D[🚀 Spring Boot]
-    D --> E[🗃️ Hibernate & JPA]
-    E --> F[🌐 REST API Design]
-    F --> G{Current Level}
-    G --> H[🔒 Spring Security & JWT]
-    G --> I[🧩 Microservices Architecture]
-    G --> J[☁️ Cloud Deployment - AWS]
-    H --> K[⚡ System Design & Scaling]
-    I --> K
-    J --> K
-    K --> L[🎯 Senior Backend Engineer]
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FF006E','primaryTextColor':'#fff','primaryBorderColor':'#00ffff','lineColor':'#ff00ff','secondaryColor':'#006100','tertiaryColor':'#fff','background':'#0d1117','mainBkg':'#0d1117','secondBkg':'#161b22','tertiaryBorderColor':'#00ffff'}}}%%
+
+timeline
+    title 🚀 BACKEND MASTERY JOURNEY
     
-    style A fill:#ED8B00,stroke:#333,stroke-width:3px
-    style B fill:#61DAFB,stroke:#333,stroke-width:3px
-    style C fill:#6DB33F,stroke:#333,stroke-width:3px
-    style D fill:#6DB33F,stroke:#333,stroke-width:3px
-    style E fill:#59666C,stroke:#333,stroke-width:3px
-    style F fill:#00D8FF,stroke:#333,stroke-width:3px
-    style G fill:#FFD700,stroke:#333,stroke-width:4px,stroke-dasharray: 5 5
-    style H fill:#FF6B6B,stroke:#333,stroke-width:3px
-    style I fill:#4ECDC4,stroke:#333,stroke-width:3px
-    style J fill:#FF9900,stroke:#333,stroke-width:3px
-    style K fill:#95E1D3,stroke:#333,stroke-width:3px
-    style L fill:#F38181,stroke:#333,stroke-width:4px
+    2022 : Java Fundamentals
+         : OOP & Design Patterns
+         : Data Structures & Algorithms
+    
+    2023 : Spring Framework Mastery
+         : Database Design & SQL
+         : REST API Development
+         : Hibernate & JPA
+    
+    2024 : Spring Boot Production Apps
+         : Microservices Architecture
+         : Docker & Containerization
+         : Cloud Deployment (AWS)
+    
+    2025 : System Design Patterns
+         : Advanced Microservices
+         : CI/CD Pipelines
+         : Performance Optimization
+         : Senior Backend Architect
 ```
 
-### 📚 Current Learning Focus
 
-| 🎓 Technology | 📊 Progress | 🎯 Goal | 🗓️ Timeline |
-|:--------------|:------------|:--------|:-----------|
-| ☁️ **AWS & Cloud Deployment** | ![60%] | Deploy production apps | Q1 2025 |
-| 🔒 **Spring Security & JWT** | ![65%]| Secure all APIs | Q1 2025 |
-| 🧩 **Microservices Architecture** |  | Build distributed systems | Q2 2025 |
-| ⚡ **System Design & Patterns** |  | Architect scalable solutions | Q2 2025 |
 
 </div>
-
-<br/>
-
-
-<br/>
-
-
 
 <br/>
 
@@ -221,36 +248,40 @@ graph TB
 
 <br/>
 
-## 💼 Featured Projects - Showcasing Backend Excellence
+## 💼 PROJECT SHOWCASE
 
 <div align="center">
 
+### 🔷 FEATURED SYSTEMS
+
 <table>
   <tr>
-    <td width="55%">
-      <h3 align="center">🎯 E-Commerce System</h3>
-      <div align="center">  
-        <a href="https://github.com/alaa-333/E-Commerce-REST-API" target="_blank">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaa-333&repo=E-Commerce-                 System&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="E-Commerce" />
-        </a>
-        <br/>
-        <br/>
-        <p><strong>Tech Stack:</strong></p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ORACLE-4479A1?style=flat-square&logo=oracle&logoColor=white"/>
-      </div>
-    </td>
-    <td width="45%">
-      <h3 align="center">🔥 More Projects Coming Soon</h3>
+    <td width="50%" valign="top">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" alt="Coding"/>
-        <br/>
-        <br/>
-        <p><em>Building amazing backend solutions...</em></p>
-        <p><strong>Stay tuned! 🚀</strong></p>
+        <h3>🛒 E-COMMERCE BACKEND ENGINE</h3>
+        <a href="https://github.com/alaa-333/E-Commerce-REST-API">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaa-333&repo=E-Commerce-REST-API&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00F5FF&icon_color=FF006E&text_color=ffffff&border_radius=10" alt="E-Commerce API" />
+        </a>
+        <br/><br/>
+        <p><strong>⚙️ TECH STACK</strong></p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0e27"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0a0e27"/>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0a0e27"/>
+        <img src="https://img.shields.io/badge/REST_API-00F5FF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0e27"/>
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0a0e27"/>
+        <br/><br/>
+        <p align="left">
+          ✦ Full-featured RESTful API architecture<br/>
+          ✦ JWT authentication & role-based authorization<br/>
+          ✦ Advanced order management system<br/>
+          ✦ Optimized database queries & transactions<br/>
+          ✦ Comprehensive API documentation<br/>
+          ✦ Exception handling & validation
+        </p>
       </div>
     </td>
+
+  
   </tr>
 </table>
 
@@ -262,69 +293,69 @@ graph TB
 
 <br/>
 
-## 📝 Backend Development Insights
+## 📈 GITHUB ANALYTICS
 
 <div align="center">
 
-<!-- Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
 
-<br/><br/>
 
-### 💡 My Development Philosophy
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alaa-333&theme=react-dark&hide_border=true&area=true&bg_color=0a0e27&color=FF006E&line=00F5FF&point=C77DFF" width="96%"/>
+
+
+</div>
+
+
+<br/>
+
+## 💎 DEVELOPER PRINCIPLES
+
+<div align="center">
+
+### 🔷 CORE VALUES
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/>
-      <strong>Clean Code</strong><br/>
-      <sub>Write code that humans can read</sub>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/><br/>
+      <strong>⚡ PERFORMANCE</strong><br/>
+      <sub>Optimized queries<br/>Efficient algorithms<br/>Fast response times</sub>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/performance-macbook.png" width="60"/><br/>
-      <strong>Performance</strong><br/>
-      <sub>Optimize for speed & efficiency</sub>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/><br/>
+      <strong>🔒 SECURITY</strong><br/>
+      <sub>JWT authentication<br/>Data encryption<br/>Secure coding</sub>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/security-checked.png" width="60"/><br/>
-      <strong>Security</strong><br/>
-      <sub>Build with safety in mind</sub>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"/><br/>
+      <strong>📐 CLEAN CODE</strong><br/>
+      <sub>SOLID principles<br/>Design patterns<br/>Maintainability</sub>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/scale.png" width="60"/><br/>
-      <strong>Scalability</strong><br/>
-      <sub>Design for growth</sub>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/><br/>
+      <strong>🚀 SCALABILITY</strong><br/>
+      <sub>Load balancing<br/>Caching layers<br/>Distributed systems</sub>
     </td>
   </tr>
 </table>
 
-</div>
-
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║  "Code is not just about making things work—it's about making them work      ║
+║   elegantly, efficiently, and at scale. Every line is a decision, every       ║
+║   function is architecture, and every commit is legacy."                      ║
+║                                                                                ║
+║                                                      — Alaa Mohamed            ║
+║                                                                                ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<br/>
+### 💭 DEVELOPER WISDOM
 
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-<p><em>I'm always open to interesting conversations and collaboration opportunities!</em></p>
-
-### 📬 Reach Out To Me
-
-<a href="https://www.linkedin.com/in/alaamohamed-javadev">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:333alaamo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://alaa-portfolio-site1.netlify.app/#/home">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" width="60%"/>
 
 </div>
 
@@ -334,21 +365,52 @@ graph TB
 
 <br/>
 
+## 🌐 NETWORK PROTOCOLS
+
 <div align="center">
 
-### ⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Coding"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450">
 
 <br/><br/>
 
-**Thanks for stopping by! Feel free to explore my repositories and don't forget to ⭐ your favorites!**
+### 📡 ESTABLISH CONNECTION
+
+<p>
+  <a href="https://www.linkedin.com/in/alaamohamed-javadev">
+    <img src="https://img.shields.io/badge/🔗_LINKEDIN-CONNECT_NOW-00F5FF?style=for-the-badge&labelColor=0a0e27" height="40"/>
+  </a>
+  <a href="mailto:333alaamo@gmail.com">
+    <img src="https://img.shields.io/badge/📧_EMAIL-SEND_MESSAGE-7B2CBF?style=for-the-badge&labelColor=0a0e27" height="40"/>
+  </a>
+  <a href="https://alaa-portfolio-site1.netlify.app/#/home">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-EXPLORE_WORK-C77DFF?style=for-the-badge&labelColor=0a0e27" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/333alaamo/">
+    <img src="https://img.shields.io/badge/💻_LEETCODE-VIEW_SOLUTIONS-FF006E?style=for-the-badge&labelColor=0a0e27" height="40"/>
+  </a>
+</p>
 
 <br/>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                             ║
+║    💼 OPEN FOR: Backend Engineering Roles                                  ║
+║    🤝 SEEKING: Challenging Technical Projects                              ║
+║    🎯 FOCUS: Distributed Systems & Cloud Architecture                      ║
+║    ⚡ RESPONSE: Fast & Professional                                        ║
+║    ☕ AVAILABILITY: 24/7 (Coffee-Powered)                                  ║
+║                                                                             ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+
+</div>
+
+<br/>
+
+
+<!-- Glitch Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,23,26,28&height=150&section=footer&animation=twinkling"/>
 
 </div>
