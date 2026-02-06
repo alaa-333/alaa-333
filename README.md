@@ -341,18 +341,6 @@ timeline
 
 <br/>
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                                ║
-║  "Code is not just about making things work—it's about making them work      ║
-║   elegantly, efficiently, and at scale. Every line is a decision, every       ║
-║   function is architecture, and every commit is legacy."                      ║
-║                                                                                ║
-║                                                      — Alaa Mohamed            ║
-║                                                                                ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
 ### 💭 DEVELOPER WISDOM
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" width="60%"/>
@@ -369,7 +357,6 @@ timeline
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450">
 
 <br/><br/>
 
