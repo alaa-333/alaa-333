@@ -207,38 +207,6 @@ Frontend Integration  ████████████░░░░░░░�
 
 <br/>
 
-## 🗺️ [ SKILL TREE PROGRESSION ]
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FF006E','primaryTextColor':'#fff','primaryBorderColor':'#00ffff','lineColor':'#ff00ff','secondaryColor':'#006100','tertiaryColor':'#fff','background':'#0d1117','mainBkg':'#0d1117','secondBkg':'#161b22','tertiaryBorderColor':'#00ffff'}}}%%
-
-timeline
-    title 🚀 BACKEND MASTERY JOURNEY
-    
-    2022 : Java Fundamentals
-         : OOP & Design Patterns
-         : Data Structures & Algorithms
-    
-    2023 : Spring Framework Mastery
-         : Database Design & SQL
-         : REST API Development
-         : Hibernate & JPA
-    
-    2024 : Spring Boot Production Apps
-         : Microservices Architecture
-         : Docker & Containerization
-         : Cloud Deployment (AWS)
-    
-    2025 : System Design Patterns
-         : Advanced Microservices
-         : CI/CD Pipelines
-         : Performance Optimization
-         : Senior Backend Architect
-```
-
-
 
 </div>
 
@@ -308,44 +276,6 @@ timeline
 
 <br/>
 
-## 💎 DEVELOPER PRINCIPLES
-
-<div align="center">
-
-### 🔷 CORE VALUES
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/><br/>
-      <strong>⚡ PERFORMANCE</strong><br/>
-      <sub>Optimized queries<br/>Efficient algorithms<br/>Fast response times</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/><br/>
-      <strong>🔒 SECURITY</strong><br/>
-      <sub>JWT authentication<br/>Data encryption<br/>Secure coding</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"/><br/>
-      <strong>📐 CLEAN CODE</strong><br/>
-      <sub>SOLID principles<br/>Design patterns<br/>Maintainability</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/><br/>
-      <strong>🚀 SCALABILITY</strong><br/>
-      <sub>Load balancing<br/>Caching layers<br/>Distributed systems</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 💭 DEVELOPER WISDOM
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" width="60%"/>
-
-</div>
 
 <br/>
 
