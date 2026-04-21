@@ -226,9 +226,9 @@ Frontend Integration  ████████████░░░░░░░�
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🛒 E-COMMERCE BACKEND ENGINE</h3>
-        <a href="https://github.com/alaa-333/E-Commerce-REST-API">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaa-333&repo=E-Commerce-REST-API&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00F5FF&icon_color=FF006E&text_color=ffffff&border_radius=10" alt="E-Commerce API" />
+        <h3>Wasla Logistic Marketplace</h3>
+        <a href="https://github.com/alaa-333/Wasla/tree/main/wasla-backend/wasla">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaa-333&wasla-backend&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00F5FF&icon_color=FF006E&text_color=ffffff&border_radius=10" alt="E-Commerce API" />
         </a>
         <br/><br/>
         <p><strong>⚙️ TECH STACK</strong></p>
@@ -238,14 +238,7 @@ Frontend Integration  ████████████░░░░░░░�
         <img src="https://img.shields.io/badge/REST_API-00F5FF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0e27"/>
         <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0a0e27"/>
         <br/><br/>
-        <p align="left">
-          ✦ Full-featured RESTful API architecture<br/>
-          ✦ JWT authentication & role-based authorization<br/>
-          ✦ Advanced order management system<br/>
-          ✦ Optimized database queries & transactions<br/>
-          ✦ Comprehensive API documentation<br/>
-          ✦ Exception handling & validation
-        </p>
+      
       </div>
     </td>
 
