@@ -216,35 +216,33 @@ Frontend Integration  ████████████░░░░░░░�
 
 <br/>
 
-## 💼 PROJECT SHOWCASE
-
 <div align="center">
 
-### 🔷 FEATURED SYSTEMS
+<h3>🔷 FEATURED SYSTEMS</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>Wasla Logistic Marketplace</h3>
+        <!-- Removed <h3> to avoid duplicate title (card shows repo name) -->
         <a href="https://github.com/alaa-333/Wasla/tree/main/wasla-backend/wasla">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaa-333&wasla-backend&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00F5FF&icon_color=FF006E&text_color=ffffff&border_radius=10" alt="E-Commerce API" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaa-333&repo=wasla&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00F5FF&icon_color=FF006E&text_color=ffffff&border_radius=10" alt="Wasla Logistic Marketplace" />
         </a>
-        <br/><br/>
+        <br/>
         <p><strong>⚙️ TECH STACK</strong></p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0e27"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0a0e27"/>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0a0e27"/>
         <img src="https://img.shields.io/badge/REST_API-00F5FF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0e27"/>
         <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0a0e27"/>
-        <br/><br/>
-      
       </div>
     </td>
-
-  
   </tr>
 </table>
+
+</div>
+
+</div>
 
 </div>
 
