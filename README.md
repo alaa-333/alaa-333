@@ -69,7 +69,7 @@
 ║                                                                              ║
 ║  👤 IDENTITY      : Alaa Mohamed                                             ║
 ║  💼 DESIGNATION   : Java Backend Engineer                                    ║
-║  🌍 LOCATION      : Al Mansurah, Egypt 🇪🇬                                   ║
+║  🌍 LOCATION      : Cairo, Egypt 🇪🇬                                   ║
 ║  ⏱️  RUNTIME      : 24/7 Problem Solver                                      ║
 ║  ✅ STATUS        : ACTIVE & AVAILABLE                                       ║
 ║                                                                              ║
