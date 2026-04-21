@@ -172,9 +172,9 @@
       <br/><sub>Version Control</sub>
     </td>
     <td align="center" width="140" height="140">
-      <img src="https://skillicons.dev/icons?i=angular" alt="Git" width="70" height="70" />
-      <br/><strong style="color:#7B2CBF">GIT</strong>
-      <br/><sub>Version Control</sub>
+      <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="70" height="70" />
+      <br/><strong style="color:#7B2CBF">Angular</strong>
+      <br/><sub>Front-end framework</sub>
     </td>
 
 <td align="center" width="140" height="140">
