@@ -232,7 +232,7 @@ Frontend Integration  ████████████░░░░░░░�
         <p><strong>⚙️ TECH STACK</strong></p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0e27"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0a0e27"/>
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0a0e27"/>
+        <img src="https://img.shields.io/badge/postreSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0a0e27"/>
         <img src="https://img.shields.io/badge/REST_API-00F5FF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0e27"/>
         <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0a0e27"/>
       </div>
