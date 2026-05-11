@@ -1,125 +1,77 @@
 <div align="center">
 
-<!-- Futuristic Glitch Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,30:7B2CBF,60:00F5FF,100:C77DFF&height=220&section=header&text=ALAA%20MOHAMED&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%7C%20&descAlignY=55&descAlign=50&descSize=20"/>
+<!-- ═══════════════════════════ HEADER BANNER ═══════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3622,100:6DB33F&height=200&section=header&text=Alaa%20Mohamed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=58&descSize=18&descColor=a3d9a5"/>
 
-<!-- Matrix-Style Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=800&height=100&lines=%3E+Backend+Engineer;%3E+Crafting+High-Performance+APIs;%3E+Status:+ONLINE+%E2%9C%A8" alt="Typing SVG" />
+<!-- ═══════════════════════════ BOOT SEQUENCE ═══════════════════════════ -->
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=6DB33F&center=true&vCenter=true&multiline=true&repeat=false&width=620&height=110&lines=%24+java+-jar+alaa-mohamed.jar;%5B%E2%9C%93%5D+JVM+initialized+...+Spring+context+loaded;%5B%E2%9C%93%5D+Database+pool+ready+...+REST+endpoints+up;%5B%E2%9C%93%5D+Backend+Engineer+%3A%3A+ONLINE+%26+READY+%F0%9F%9F%A2" />
 
 <br/>
 
-<!-- Neon Status Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_SYSTEM-ONLINE-00ff41?style=for-the-badge&labelColor=0a0e27&color=00ff41" alt="System Status"/>
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-7B2CBF?style=for-the-badge&labelColor=0a0e27" alt="Hiring Status"/>
-  <img src="https://img.shields.io/badge/LOCATION-EGYPT_🇪🇬-C77DFF?style=for-the-badge&labelColor=0a0e27" alt="Location"/>
-  <img src="https://img.shields.io/badge/☕_FUEL-COFFEE_POWERED-FF006E?style=for-the-badge&labelColor=0a0e27" alt="Fuel"/>
-</p>
+<!-- ═══════════════════════════ SOCIAL BADGES ═══════════════════════════ -->
+<a href="https://www.linkedin.com/in/alaamohamed-javadev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:333alaamo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://alaa-portfolio-site1.netlify.app/#/home">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/333alaamo/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+<br/><br/>
 
-
-<!-- Social Matrix -->
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/alaamohamed-javadev">
-        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-      </a>
-    </td>
-    <td>
-      <a href="mailto:333alaamo@gmail.com">
-        <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://alaa-portfolio-site1.netlify.app/#/home">
-        <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="30"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://leetcode.com/u/333alaamo/">
-        <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="30"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<img src="https://img.shields.io/badge/📍_Location-Cairo,_Egypt_🇪🇬-2ea44f?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/💼_Status-Available_for_Hire-6DB33F?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/⚡_Runtime-24%2F7_Problem_Solver-orange?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
 <br/>
 
-<!-- Neon Divider -->
+<!-- ═══════════════════════════ ANIMATED DIVIDER ═══════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35"> SYSTEM INITIALIZATION
+<!-- ═══════════════════════════ IDENTITY CARD ═══════════════════════════ -->
 
 <div align="center">
+<h2>⚙️ &nbsp;<code>GET /api/v1/developer</code></h2>
+</div>
 
-<table>
+<table align="center" width="90%">
 <tr>
-<td>
+<td width="55%" valign="top">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                        🚀 BACKEND ENGINEER PROTOCOL                          ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  👤 IDENTITY      : Alaa Mohamed                                             ║
-║  💼 DESIGNATION   : Java Backend Engineer                                    ║
-║  🌍 LOCATION      : Cairo, Egypt 🇪🇬                                   ║
-║  ⏱️  RUNTIME      : 24/7 Problem Solver                                      ║
-║  ✅ STATUS        : ACTIVE & AVAILABLE                                       ║
-║                                                                              ║
-║  🔧 PRIMARY STACK : Java ☕ | Spring Boot 🌱 | SQL 🗃️                        ║
-║                                                                              ║
-║  🛠️  TECH CONFIGURATION                                                     ║
-║     • Backend   : Spring Boot • Hibernate • REST APIs                        ║
-║     • Frontend  : Angular • TypeScript • Bootstrap                           ║
-║     • Database  : MySQL • Oracle                               ║
-║     • Learning  : AWS • Microservices                      ║
-║                           ║
-║                                                                              ║
-║  💡 CORE PHILOSOPHY                                                          ║
-║     “Code is not just about making things work—it’s about making            ║
-║      them work elegantly, efficiently, and at scale. Build systems          ║
-║      that last, APIs that perform, and architectures that endure.” 🚀       ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+```json
+{
+  "name"     : "Alaa Mohamed",
+  "role"     : "Java Backend Engineer",
+  "location" : "Cairo, Egypt 🇪🇬",
+  "status"   : "ACTIVE · AVAILABLE_FOR_HIRE",
+
+  "stack": {
+    "core"     : ["Java", "Spring Boot", "Hibernate"],
+    "databases": ["MySQL", "PostgreSQL", "Oracle"],
+    "tools"    : ["Maven", "Git", "Postman", "JUnit 5"],
+    "frontend" : ["Angular", "TypeScript", "Bootstrap"],
+    "learning" : ["AWS", "Microservices"]
+  }
 ```
 
 </td>
+
 </tr>
 </table>
-
-</div>
-
-</div>
-
-<br/>
-
-### ⚡ MISSION CONTROL PANEL
-
-<div align="center">
-
-| 🎯 OPERATION | 📊 STATUS | 💡 DETAILS |
-|:-------------|:----------|:-----------|
-| **CURRENT_PROJECT** | <img src="https://img.shields.io/badge/ACTIVE-00ff00?style=flat-square"/> | E-Commerce Backend with Advanced Features |
-| **EXPERTISE_LEVEL** | <img src="https://img.shields.io/badge/ADVANCED-0066ff?style=flat-square"/> | RESTful APIs, Database Design, System Architecture |
-| **LEARNING_PATH** | <img src="https://img.shields.io/badge/IN_PROGRESS-ffaa00?style=flat-square"/> | AWS Cloud, Microservices, Spring Security |
-| **CODE_QUALITY** | <img src="https://img.shields.io/badge/EXCELLENT-00ffff?style=flat-square"/> | SOLID Principles, Clean Architecture, Design Patterns |
-| **DEPLOYMENT** | <img src="https://img.shields.io/badge/PRODUCTION-ff00ff?style=flat-square"/> | Spring Boot Apps in Live Environments |
-| **COLLABORATION** | <img src="https://img.shields.io/badge/OPEN-7B2CBF?style=flat-square"/> | Ready for Backend Challenges |
-
-</div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
 
 ## 🛠️ [ TECH MATRIX ]
 
@@ -254,25 +206,17 @@ Frontend Integration  ████████████░░░░░░░�
 
 ## 📈 GITHUB ANALYTICS
 
+
+<!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
+ 
 <div align="center">
-
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alaa-333&theme=react-dark&hide_border=true&area=true&bg_color=0a0e27&color=FF006E&line=00F5FF&point=C77DFF" width="96%"/>
-
-
+<h2>📈 &nbsp;<code>GET /api/v1/developer/analytics</code></h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alaa-333&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=6DB33F&line=6DB33F&point=ffffff&area_color=1a3a2a" width="96%"/>
+<br/>
 </div>
-
-
 <br/>
-
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
 
 ## 🌐 NETWORK PROTOCOLS
 
