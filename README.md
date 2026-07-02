@@ -216,9 +216,9 @@ Patterns I actively apply:
     </td>
     <!-- MADRAASTI -->
   <td width="33%" valign="top" align="center">
-  <a href="https://github.com/alaa-333/E-Commerce-REST-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaa-333&repo=YOUR_ECOMMERCE_REPO&theme=radical&hide_border=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F&text_color=ffffff&border_radius=10"/>
-  </a>
+    <a href="https://github.com/alaa-333/spring-ecommerce-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaa-333&repo=spring-ecommerce-api&theme=radical&hide_border=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F&text_color=ffffff&border_radius=10"/>
+      </a>
   <br/><br/>
   <p><strong>Secure E-Commerce Backend API</strong></p>
   <p align="left">
@@ -239,7 +239,7 @@ Patterns I actively apply:
     <!-- HIRETRACK -->
    <td width="33%" valign="top" align="center">
   <a href="https://github.com/alaa-333/realtime-chat-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaa-333&repo=YOUR_CHAT_REPO&theme=radical&hide_border=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F&text_color=ffffff&border_radius=10"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaa-333&repo=realtime-chat-app&theme=radical&hide_border=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F&text_color=ffffff&border_radius=10"/>
   </a>
   <br/><br/>
   <p><strong>Real-Time Chat & Messaging Platform</strong></p>
