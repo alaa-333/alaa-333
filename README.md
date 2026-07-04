@@ -75,21 +75,6 @@
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
-
-### 🧠 Engineering Focus
-
-I build **production-grade backend systems** with a focus on correctness under failure — not just happy-path code.
-
-Patterns I actively apply:
-- 📬 **Transactional Outbox** — guaranteed event delivery
-- 🗺️ **PostGIS spatial queries** — real geolocation logic
-- 🔌 **WebSocket + FCM** — real-time & async messaging
-- 🧩 **Modular Monolith** — clean boundaries before scale
-
-> *"I care about what happens when things go wrong — not just when they work."*
-
-</td>
 </tr>
 </table>
 
